@@ -1,0 +1,40 @@
+.flexrow {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.flexcolumn {
+    display: flex;
+    flex-direction: column;
+}
+.flexcenter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mt-2 {
+    margin-top: 20px;
+}
+
+.mb-2 {
+    margin-bottom: 20px;
+}
+.mb-4 {
+    margin-bottom: 40px;
+}
+
+.mr-2 {
+    margin-right: 20px;
+}
+.mr-1 {
+    margin-right: 10px;
+}
+
+.ml-2 {
+    margin-left: 20px;
+}
+h1 {
+    font-size: 40px;
+    color: rgb(35, 35, 107);
+}

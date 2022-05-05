@@ -1,0 +1,28 @@
+
+.content a {
+    color:rgb(65, 65, 143);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.content pre {
+    background-color: rgb(31, 31, 31);
+    padding: 20px;
+    border-radius: 5px;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.box {
+    min-width: 160px;
+    min-height: 160px;
+    background-color: rgb(11, 11, 61);
+    color: white;
+    margin: 5px;
+    flex-grow: 1;
+}
+input {
+    padding: 10px;
+}
+button {
+    padding: 10px;
+}

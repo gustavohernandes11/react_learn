@@ -1,0 +1,13 @@
+.App {
+  display: grid;
+  grid-template-columns: 350px 1fr;
+  grid-template-areas: 'menu content';
+}
+
+.App, html, body {
+  width: 100vw;
+  height: 100vh;
+  box-sizing: border-box;
+  margin: 0px;
+  overflow-x: hidden;
+}
